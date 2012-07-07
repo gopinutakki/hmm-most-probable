@@ -36,7 +36,7 @@ How to change run configuration
 
 Google code project url:
 ------------------------
-http://code.google.com/p/expectation-maximization/
+http://code.google.com/p/hmm-most-probable/
 
 
 Output files:
