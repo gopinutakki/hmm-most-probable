@@ -1,0 +1,213 @@
+OUTPUT 1:
+---------
+
+Randomly Generated Events Sequence:
+SWSZZSWWWWWZWSSZWSSZSZZSZSZZSSSZZSZWSSSWWSSWWZSWSWSWWWWZWSSSWWZWWSWSWSWWWWSSSSSWWWWSWWWSWSWZSWWWSSSSSSSSSZZZZZZZZZZSZZSSSSSSZZSWWZWWW
+
+Randomly Generated State Sequence (Corresponding To The Above Random Events Sequence):
+CRRRRCSSSSSRRRRRRCRRRRRRRRRRRRCRRRRRRSSSSSSSSSSSSSSSSSSSSSCCSSSSSSSSSCSSSSCSSCSSSSSSSSSCSSSSSSSSCCCCCCCCCRRRRRRRRRRRRRCCCSCRRRSSSRCSS
+
+Final Predictions (Input Events & Corresponding Highest Probable Sequence of States):
+
+S	->	C
+W	->	C
+S	->	C
+Z	->	R
+Z	->	R
+S	->	C
+W	->	S
+W	->	S
+W	->	S
+W	->	S
+W	->	S
+Z	->	S
+W	->	S
+S	->	S
+S	->	S
+Z	->	S
+W	->	S
+S	->	C
+S	->	C
+Z	->	R
+S	->	R
+Z	->	R
+Z	->	R
+S	->	R
+Z	->	R
+S	->	R
+Z	->	R
+Z	->	R
+S	->	R
+S	->	R
+S	->	R
+Z	->	R
+Z	->	R
+S	->	R
+Z	->	R
+W	->	S
+S	->	S
+S	->	S
+S	->	S
+W	->	S
+W	->	S
+S	->	S
+S	->	S
+W	->	S
+W	->	S
+Z	->	S
+S	->	S
+W	->	S
+S	->	S
+W	->	S
+S	->	S
+W	->	S
+W	->	S
+W	->	S
+W	->	S
+Z	->	S
+W	->	S
+S	->	S
+S	->	S
+S	->	S
+W	->	S
+W	->	S
+Z	->	S
+W	->	S
+W	->	S
+S	->	S
+W	->	S
+S	->	S
+W	->	S
+S	->	S
+W	->	S
+W	->	S
+W	->	S
+W	->	S
+S	->	S
+S	->	S
+S	->	S
+S	->	S
+S	->	S
+W	->	S
+W	->	S
+W	->	S
+W	->	S
+S	->	S
+W	->	S
+W	->	S
+W	->	S
+S	->	S
+W	->	S
+S	->	S
+W	->	S
+Z	->	S
+S	->	S
+W	->	S
+W	->	S
+W	->	S
+S	->	C
+S	->	C
+S	->	C
+S	->	C
+S	->	C
+S	->	C
+S	->	C
+S	->	C
+S	->	C
+Z	->	R
+Z	->	R
+Z	->	R
+Z	->	R
+Z	->	R
+Z	->	R
+Z	->	R
+Z	->	R
+Z	->	R
+Z	->	R
+S	->	R
+Z	->	R
+Z	->	R
+S	->	C
+S	->	C
+S	->	C
+S	->	C
+S	->	C
+S	->	C
+Z	->	R
+Z	->	R
+S	->	C
+W	->	S
+W	->	S
+Z	->	S
+W	->	S
+W	->	S
+W	->	S
+
+
+
+OUTPUT 2:
+---------
+
+User Provided Events Sequence:
+ZZSSSZWWWZSSSZZZSSWWZSSSZWWWZSSSZZZZSSWWWZSSZWWSZWWWZSSZZW
+
+Final Predictions (Input Events & Corresponding Highest Probable Sequence of States):
+
+Z	->	R
+Z	->	R
+S	->	C
+S	->	C
+S	->	C
+Z	->	C
+W	->	S
+W	->	S
+W	->	S
+Z	->	C
+S	->	C
+S	->	C
+S	->	C
+Z	->	R
+Z	->	R
+Z	->	R
+S	->	C
+S	->	C
+W	->	S
+W	->	S
+Z	->	S
+S	->	S
+S	->	S
+S	->	S
+Z	->	S
+W	->	S
+W	->	S
+W	->	S
+Z	->	C
+S	->	C
+S	->	C
+S	->	C
+Z	->	R
+Z	->	R
+Z	->	R
+Z	->	R
+S	->	C
+S	->	C
+W	->	S
+W	->	S
+W	->	S
+Z	->	S
+S	->	S
+S	->	S
+Z	->	S
+W	->	S
+W	->	S
+S	->	S
+Z	->	S
+W	->	S
+W	->	S
+W	->	S
+Z	->	R
+S	->	R
+S	->	R
+Z	->	R
+Z	->	R
+W	->	R

@@ -1,0 +1,66 @@
+Randomly Generated Events Sequence:
+WSZZZZSZSSSSSWWSSSSSSWWWSSSWZSZZZZSSZSSSSZWZSSWWWSWWSWSSWS
+
+Randomly Generated State Sequence (Corresponding To The Above Random Events Sequence):
+RRRRRRRCCCCCSSSCCCCCSSSSCCRRRCRRRRCRRRRRRCCRCCSSSCSSCSSSSS
+
+Final Predictions (Input Events & Corresponding Highest Probable Sequence of States):
+
+W	->	R
+S	->	R
+Z	->	R
+Z	->	R
+Z	->	R
+Z	->	R
+S	->	R
+Z	->	R
+S	->	C
+S	->	C
+S	->	C
+S	->	C
+S	->	C
+W	->	S
+W	->	S
+S	->	S
+S	->	S
+S	->	S
+S	->	S
+S	->	S
+S	->	S
+W	->	S
+W	->	S
+W	->	S
+S	->	S
+S	->	S
+S	->	S
+W	->	S
+Z	->	R
+S	->	R
+Z	->	R
+Z	->	R
+Z	->	R
+Z	->	R
+S	->	R
+S	->	R
+Z	->	R
+S	->	C
+S	->	C
+S	->	C
+S	->	C
+Z	->	R
+W	->	R
+Z	->	R
+S	->	C
+S	->	C
+W	->	S
+W	->	S
+W	->	S
+S	->	S
+W	->	S
+W	->	S
+S	->	S
+W	->	S
+S	->	S
+S	->	S
+W	->	S
+S	->	S
