@@ -41,4 +41,4 @@ http://code.google.com/p/hmm-most-probable/
 
 Output files:
 ------------- 
-1. 'output-sample.txt' file contains outputs generated using randomly generated events and user input events.
+1. 'output-sample.txt' file contains sample outputs generated using both randomly generated events and user input events.

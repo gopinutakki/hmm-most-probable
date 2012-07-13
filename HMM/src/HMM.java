@@ -12,7 +12,9 @@ import java.util.Random;
  * 
  * Class definition for the HMM to generate random states, events and find the
  * maximum probable path.
- * 
+ *
+ * Viterbi algorithm adopted from: Biological Sequence Analysis, Durbin et.al.
+ * and Wikipedia: http://en.wikipedia.org/wiki/Viterbi_algorithm
  * @author gopi
  * 
  */
@@ -79,7 +81,7 @@ public class HMM {
 				bw.write(inputEvents.get(index));
 			}
 		}
-		bw.write("\n\nFinal Predictions (Input Events & Corresponding Highest Probable Sequence of States):\n");
+		bw.write("\n\nFinal Predictions (Input Events -> Corresponding Highest Probable Sequence of States):\n");
 		for (int index = 0; index < inputEvents.size(); index++) {
 			bw.write("\n" + inputEvents.get(index) + "\t->\t"
 					+ outputStates.get(index));
@@ -284,6 +286,7 @@ public class HMM {
 				String maxSeq = "", pathViterbi = "";
 				for (Object source : states) {
 					String srcState = ((String) source).trim();
+					// Cannot go back to Begin, cannot exit End state.
 					if (srcState.equals("B") || srcState.equals("E"))
 						continue;
 					if (tempOutput.equals("B") || tempOutput.equals("E"))
